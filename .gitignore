@@ -1,0 +1,16 @@
+# OS/IDE stuff
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Output builds
+dist/
+build/
+node_modules/
+.env
+
+# Logs & backups
+*.log
+*.bak
+*.tmp
